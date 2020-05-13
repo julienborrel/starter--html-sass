@@ -88,7 +88,7 @@ gulp.task('dev',
 
 gulp.task('prod',
   gulp.series(
-    gulp.parallel('sass:prod', 'js:prod', 'update')
+    gulp.parallel('sass:prod', 'js:prod')
   )
 );
 
