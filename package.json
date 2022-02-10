@@ -16,7 +16,7 @@
         "gulp-uglify": "^3.0.2",
         "jquery": "3.5.0",
         "modernizr": "3.10.0",
-        "node-sass": "^4.14.1",
+        "node-sass": "^7.0.0",
         "normalize.css": "latest",
         "ssri": "^7.1.0"
     }
